@@ -1,6 +1,9 @@
+##!!!!!!!!!!!!!!!!!!!
+
 File starter.R should be run as first to perform necessery operations on data.
 Then you are free to go with other (plot1.R) scripts.
 
+##!!!!!!!!!!!!!!!!!!!
 
 ## Introduction
 
